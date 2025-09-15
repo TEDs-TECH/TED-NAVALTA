@@ -138,7 +138,7 @@
 		$(window).scroll(function(){
 			var $w = $(this),
 					st = $w.scrollTop(),
-					navbar = $('.ftco_navbar'),
+					navbar = $('.tedstech_navbar'),
 					sd = $('.js-scroll-wrap');
 
 			if (st > 150) {
